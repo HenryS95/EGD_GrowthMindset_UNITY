@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dc148b2af2a604d2e8550c0e92043789
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nameText: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - dialogueGUI: {instanceID: 0}
+  - dialogueBoxGUI: {instanceID: 0}
+  - audioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
